@@ -9,3 +9,5 @@ I am learning programming, Git, and GitHub.
 My goal is to become a Machine Learning Engineer.
 
 This repository documents my learning journey. 
+
+I am practising Git and GitHub one step at a time.
